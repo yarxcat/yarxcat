@@ -1,8 +1,6 @@
 <h1>Welcome, I'am Yara 🐈🐈 </h1>
 
-<p href="https://discord.gg/zum" align="center">
-    <img alt="" src=https://github-readme-stats.vercel.app/api?username=yarxcat&show_icons=true&theme=dracula>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yarxcat&show_icons=true&theme=radical)
 
 ##
 <div style="display: inline_block"><br>
