@@ -1,7 +1,7 @@
 <h1>Welcome, I'am Yara 🐈🐈 </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yarxcat&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarxcat&layout=compact)](https://github.com/yarxcat/github-readme-stats)
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
