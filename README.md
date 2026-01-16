@@ -20,6 +20,17 @@
 </div>
 
 <br>
+<h3 align="center">📊 Statistics</h3>
+
+<!-- Use correct markdown and remove line breaks from URLs -->
+<div align="center">
+  <a href="https://github.com/Sankalp-Sinha">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yarxcat&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yarxcat&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yarxcat&theme=2077" height="180em" />
+  </a>
+</div>
+
 
 ##
 <div style="display: inline_block"><br> 
@@ -29,7 +40,7 @@
   <img align="center" alt="Yara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img align="right" alt="Yara-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/998343882821599333/1084949116813062196/IMG_4800.jpg">
+  <img align="right" alt="Yara-pic" height="90" style="border-radius:50px;" src="https://github.com/yarxcat/yarxcat/blob/main/cat2-removebg-preview.png">
 </div>
  
  ##
