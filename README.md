@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+  <img align="center" height="150" src="https://github.com/yarxcat/yarxcat/blob/main/hand-drawn-kawaii-animal-illustrations.png" />
 </div>
 
 <div align="center">
